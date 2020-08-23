@@ -29,6 +29,7 @@ RUN apt-get update \
  libxml2-dev \
  libldap2-dev \
  libmcrypt-dev \
+ libzip-dev \
  python-pip \
  fabric \
  jq \
